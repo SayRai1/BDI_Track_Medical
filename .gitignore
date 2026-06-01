@@ -1,0 +1,8 @@
+node_modules/
+.matplotlib_cache/
+fontlist-v390.json
+icu_full_data_export/
+*.png
+*.csv
+*.json
+.DS_Store
